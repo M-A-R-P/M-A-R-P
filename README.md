@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Nice to see you!<br>Welcome to My GitHub Profile</h1>
 <h1 align="center">I'm Abu Rayhan Prince</h1>
-<h3 align="center">A passionate self-taught programmer, driven by technology, who want to makes the world better place through technology.</h3>
+<h3 align="center">A passionate self-taught programmer & SQA, driven by technology, who wants to make the world better place through technology.</h3>
 
 - 🔭 I’m recently graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
 
