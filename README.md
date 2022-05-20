@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to contribute on Open Source Projects
 
-- 👯 My Area of Interest's are Software Development Engineer in Test & Cyber Security
+- 👯 My Area of Interest's are Software Development Engineering in Test, Cyber Security & Data Analytics
 
 - 👨‍💻 All of my works are available at https://github.com/M-A-R-P
  
