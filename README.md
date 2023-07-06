@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, Nice to see you!<br>Welcome to My GitHub Profile</h1>
 <h1 align="center">I'm Abu Rayhan Prince</h1>
-<h3 align="center">A passionate self-taught programmer & SQA, driven by technology, who wants to make the world better place through technology.</h3>
+<h3 align="center">Highly motivated, goal oriented, knowledge-thirsty, naturally curious person who likes to apply skills in a pragmatic way to solve real life problems. Aspiring to pursue a Master of Science degree in the feild of Computer Science at an esteemed institution, driven by a strong passion for scientific inquiry and a desire to contribute to cutting-edge research.</h3>
 
-- 🔭 I’m recently graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
+- 🔭 I’m graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
 
-- 🌱 I’m currently learning SQA & Cyber Security 
+- 🌱 I’m currently learning Software System Design, DS & Algo by doing problem solving, Data Analysis, Machine Learning 
 
 - 👯 I’m looking to contribute on Open Source Projects
 
-- 👯 My Area of Interest's are Software Development Engineering in Test, Cyber Security & Data Analytics
+- 👯 My Area of Interest's are Data Science and Artificial Intelligence in SDE & Cyber Security
 
 - 👨‍💻 All of my works are available at https://github.com/M-A-R-P
+  
+- 👨‍💻 I love to solve coding problem at https://leetcode.com/ra3yh6an9 | https://www.hackerrank.com/rayhan_cs_gub
  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AbuRayhanPrinc2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbuRayhanPrinc2" height="30" width="40" /></a>
