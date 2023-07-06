@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Nice to see you!<br>Welcome to My GitHub Profile</h1>
 <h1 align="center">I'm Abu Rayhan Prince</h1>
-<h3 align="center">Highly motivated, goal oriented, knowledge-thirsty, naturally curious person who likes to apply skills in a pragmatic way to solve real life problems. Aspiring to pursue a Master of Science degree in the feild of Computer Science at an esteemed institution, driven by a strong passion for scientific inquiry and a desire to contribute to cutting-edge research.</h3>
+<h3 align="center"> <p></p>Highly motivated, goal oriented, knowledge-thirsty, naturally curious person who likes to apply skills in a pragmatic way to solve real life problems. Aspiring to pursue a Master of Science degree in the feild of Computer Science at an esteemed institution, driven by a strong passion for scientific inquiry and a desire to contribute to cutting-edge research.</p></h3>
 
 - 🔭 I’m graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
 
