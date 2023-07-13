@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to contribute on Open Source Projects
 
-- 👯 My Area of Interest's are Data Science and Artificial Intelligence in digital healthcare systems and CyberSec.
+- 👯 My Area of Interest's are Computer Technology, Data Science, Artificial Intelligence
 
 - 👨‍💻 All of my works are available at https://github.com/M-A-R-P
   
