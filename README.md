@@ -4,11 +4,11 @@
 
 - 🔭 I’m graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
 
-- 🌱 I’m currently learning Software System Design, Advanced DS & Algo by doing problem solving, Data Analysis, Machine Learning 
+- 🌱 I’m currently learning Software System Design, Manual and Automation Testing, Advanced DS & Algo, Data Analytics, Machine Learning 
 
 - 👯 I’m looking to contribute on Open Source Projects
 
-- 👯 My Area of Interest's are Computer Technology, Data Science, Artificial Intelligence
+- 👯 My Area of Interest's are Computer Technology, Data Science & AI, Computer Vision, Cybersecurity 
 
 - 👨‍💻 All of my works are available at https://github.com/M-A-R-P
   
