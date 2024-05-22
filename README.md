@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, Nice to see you!<br>Welcome to My GitHub Profile</h1>
 <h1 align="center">I'm Abu Rayhan Prince</h1>
-<h3 align="center"></p>Highly motivated, goal oriented, knowledge-thirsty, naturally curious person who love to apply knowledge and skills in a pragmatic way to solve real world problems. I possess an innate curiosity that fuels my quest for continuous learning and development. I have a strong passion for scientific inquiry and a desire to contribute to cutting-edge research and innovation.</h3>
+<h3 align="center">My objective is to embark upon a career, which can give me continuous growth opportunities and enable me to use all my skills towards achieving organizational goals and objectives. I always work to improve my knowledge base in the area of my profession.</h3>
 
 - 🔭 I’m graduated with a BSc in Computer Science and Engineering from Green University of Bangladesh
 
-- 🌱 I’m currently learning Software System Design, Manual and Automation Testing, Advanced DS & Algo, Data Analytics, Machine Learning 
+- 🌱 I’m currently learning System Design, Machine Learning, and Deep Learning Architecture for CyberSec.
 
 - 👯 I’m looking to contribute on Open Source Projects
 
-- 👯 My Area of Interest's are Computer Technology, Data Science & AI, Computer Vision, Cybersecurity 
+- 👯 My Area of Interest's are AI for autonomous critical embedded systems, End-to-end security architecture for intelligent network systems.
 
 - 👨‍💻 All of my works are available at https://github.com/M-A-R-P
   
@@ -31,9 +31,9 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-<code><img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-<code> <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> </code>
+<code><img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> </code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /></code>
