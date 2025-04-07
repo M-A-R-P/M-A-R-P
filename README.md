@@ -4,7 +4,7 @@
 <h2 align="left">💡Career Goals:</h2>
 <h3 align="left">My career objective is to become a leading expert in Artificial Intelligence and Data Science, with a specialized focus on transforming healthcare through the responsible and secure deployment of intelligent systems. I aspire to harness advanced AI techniques—such as Computer Vision, Natural Language Processing (NLP), Generative AI, Reinforcement Learning (RL), and Deep Learning (DL)—to drive innovations in medical diagnostics, real-time patient monitoring, and personalized treatment strategies. In parallel with clinical advancements, I am strongly committed to the security and ethical deployment of AI, particularly in safeguarding Large Language Models (LLMs). My goal is to explore adversarial threats, strengthen model robustness, and implement privacy-preserving techniques to ensure the secure integration of AI technologies in safety-critical domains like healthcare. Moreover, I place a strong emphasis on Explainable AI (XAI), aiming to design interpretable, transparent, and accountable AI systems. By promoting fairness and trust, I seek to bridge the gap between AI and its end users—clinicians, patients, and stakeholders—ensuring responsible AI adoption in healthcare and cybersecurity contexts.</h3>
 <h2 align="left">📚Current Focus:</h2>
-<h3 align="left"> - Building expertise in test automation frameworks, DevSecOps practices, and secure coding.</h3>
+<h3 align="left"> - Federated Learning, Responsible AI & Ethical Guidelines, Secure Deployment of AI/LLMs, Reinforcement Learning in Healthcare</h3>
 <h3 align="left"> - Preparing for industry certifications to strengthen my technical foundation.</h3>
 
 <h3 align="left">Connect with me:</h3>
